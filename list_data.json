@@ -1,10 +1,39 @@
 {
 	"Resume": [{
-		"Company": "Automatically Generating Cause-and_Effect Questions from Passages",
-		"Job Title": "Stasaski, K., Rathod, M., Tu, T., Xiao, Y, and Hearst, M.A.",
-		"Description": "BEA Workshop",
-		"Period": "2021"
-	}
+		"Company": "Texas Exchange Bank",
+		"Job Title": "Head of Investment Control",
+		"Description": "Led the bank's five person analytis group. Key focuses included revamping firm-wide operational processes and reconcilatiosn, automating the CFO role and generating new reports for performance & exposure tracking",
+		"Period": "Jan 21 - July 21"
+	},
+	{
+		"Company": "Texas Exchange Bank",
+		"Job Title": "Enterprise Risk Management Analyst",
+		"Description": "Created the bank's major reporting platform through the use of Python, SQL & VBA. Managed the database and accounting entries for Shared National Credits and Interest Rate Derivatives",
+		"Period": "Dec 17 - Jan 21"
+	},
+	{
+		"Company": "Texas Exchange Bank",
+		"Job Title": "BSA Officer",
+		"Description": "Ran the bank's BSA/AML program to protect customers and prevent money laundering. Created a new customer transaction monitoring platform to dynamically flag high-risk or suspicous customer activity",
+		"Period": "Dec 18 - Jan 21"
+	},
+	{
+	"Company": "Q Investments",
+	"Job Title": "Risk Control Analyst",
+	"Description": "Ran the bank's BSA/AML program to protect customers and prevent money laundering. Created a new customer transaction monitoring platform to dynamically flag high-risk or suspicous customer activity",
+	"Period": "June 17 - Dec 17"
+	},
+	{
+	"Company": "The Walt Disney Studio",
+	"Job Title": "Studio Technology Finance Intern",
+	"Description": "Conducted variance analysis for the Annual Operations Planning Model by meeting with corporate executives and analyzing project financial data.",
+	"Period": "June 16 - Aug 16"
+	},
+	{
+		"Company": "Hearthstone Wealth Management",
+		"Job Title": "Financial Planning Intern",
+		"Description": "Aided in the preparation and post-analysis of client meetings by helping prepare presentations, calculating long-term cash basis on investments, and compiling client financial information.",
+		"Period": "Aug 15 - Dec 15"
+		}
 ]
-	
 }
